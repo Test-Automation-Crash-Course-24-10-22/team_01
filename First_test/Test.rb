@@ -18,5 +18,4 @@ class GoogleTest < Test::Unit::TestCase
         @button_box = @driver.find_element(:class_name, "header-actions__component")
         @button_box.click
     end
-
 end
