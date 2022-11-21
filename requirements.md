@@ -1,15 +1,15 @@
 
 **For Windows:**
 
-|steps|
-|Install Ruby|
-|gem install selenium-webdriver|
-|Download chromedriver|
+|steps|||
+|1||Install Ruby|
+|2||gem install selenium-webdriver|
+|3||Download chromedriver|
 
 **For Linux:**
 
-|steps|
-|sudo apt-get install ruby|
-|sudo apt-get install rubygems|
-|sudo gem install selenium-webdriver|
-|Download chromedriver|
+|steps|||
+|1||sudo apt-get install ruby|
+|2||sudo apt-get install rubygems|
+|3||sudo gem install selenium-webdriver|
+|4||Download chromedriver|
