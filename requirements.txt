@@ -1,3 +1,7 @@
+---
+name: Requirements
+about: Describe steps how run project
+---
 
 **For Windows:**
 
